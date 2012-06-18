@@ -1,0 +1,5 @@
+RandLib results from an undergraduate project at the Indian Institute of Technology, Bombay.
+
+This software is licensed under the GNU GPL v3, or (at your option) any higher version of the GNU GPL.
+
+This library can generate pseudo random numbers from normal, exponential, uniform, binary and poisson distributions.
