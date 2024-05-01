@@ -1,3 +1,5 @@
+Note: With the inclusion of the <random> header in the C++ standard library, this code is obsolete.
+
 RandLib results from an undergraduate project at the Indian Institute of Technology, Bombay.
 
 This software is licensed under the GNU GPL v3, or (at your option) any higher version of the GNU GPL.
